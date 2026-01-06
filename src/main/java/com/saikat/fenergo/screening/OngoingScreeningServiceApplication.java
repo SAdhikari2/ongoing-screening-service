@@ -1,4 +1,4 @@
-package com.saikat.fenergo.ongoing_screening_service;
+package com.saikat.fenergo.screening;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class OngoingScreeningServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OngoingScreeningServiceApplication.class, args);
 	}
-
 }
